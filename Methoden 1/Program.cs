@@ -15,7 +15,7 @@ class Program
         anzahl = ausgabeTextMalX(n,m);
         
 
-        Console.Write("\nAnzahl der Buchstaben: {0}", anzahl);
+        Console.Write("\nAnzahl der Buchstaben: {0}", anzahl);  // Das wurde vom Herrn Salo programiert//
 
         }
     static int  ausgabeTextMalX (string name,int zahl)
